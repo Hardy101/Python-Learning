@@ -1,0 +1,4 @@
+non-primitive data structure: meaning they are classed as objects
+
+Mutability refers to data inside the data structure that can be modified
+The tuple is an example of an immutable data structure.
